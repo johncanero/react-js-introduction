@@ -1,6 +1,6 @@
 const Main = () => {
 
-    const name = "Jam";
+    // const name = "Jam";
     const customStyle = {
       color: 'purple',
       fontSize: '15px',
