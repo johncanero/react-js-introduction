@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <div>   
             <header>
-                <div className="headerTitle" contentEditable='true' spellCheck='false'>
+                <div className="headerTitle">
                     <h1>Hello React World!</h1>
                 </div>
             </header>
