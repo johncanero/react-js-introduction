@@ -26,9 +26,19 @@ html {
 }
 
 
+/* Flex Container */
+.displayImageContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
 main {
   flex-grow: 1;
 }
+
 
 
 
@@ -58,6 +68,12 @@ footer {
   margin-top: 3em;
 }
 
+.colorText {
+  color: #7c02ff97;
+}
+
+
+
 
 
 /* Lists */
@@ -76,19 +92,16 @@ li {
 
 
 
-
-/* Flex Container */
-.displayImageContent {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-
 /* Padding */
 .mathPadding {
   margin-top: 1.5em;
 }
+
+
+
+
+
+
 
 
 
