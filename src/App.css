@@ -99,6 +99,18 @@ li {
 
 
 
+/* Card */
+.cardImage {
+  width: 12em;
+}
+
+.cardPadding {
+  margin-top: 1.5em;
+}
+
+
+
+
 
 
 

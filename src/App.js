@@ -5,6 +5,7 @@ import Main from './components/Main';
 import Copyright from './components/Copyright';
 import DateTime from './components/DateTime';
 import Math from './components/Math';
+import Contacts from './components/Contacts';
 
 
 
@@ -17,6 +18,8 @@ function App() {
 
       <DateTime />
       <Math />
+
+      <Contacts />
 
       <Copyright />
     </div>
