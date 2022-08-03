@@ -1,7 +1,7 @@
 const Header = () => {
 
-    // const name = "Jam";
-    // const favoriteNumber = 23;
+  // const name = "Jam";
+  // const favoriteNumber = 23;
   
     
   return (
@@ -19,3 +19,4 @@ const Header = () => {
 }
 
 export default Header
+

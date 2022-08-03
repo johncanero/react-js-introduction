@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Main from './components/Main';
 import Copyright from './components/Copyright';
 import DateTime from './components/DateTime';
+import Math from './components/Math';
 
 
 
@@ -15,6 +16,7 @@ function App() {
       <Main />
 
       <DateTime />
+      <Math />
 
       <Copyright />
     </div>

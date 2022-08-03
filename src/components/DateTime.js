@@ -42,7 +42,7 @@ export default DateTime
 
 
 
-// Source Code: https://dev.to/adrianvalenz/time-based-greeting-with-react-and-bridgetown-4b42
+// Source Code: Time Based Greeting With React - https://dev.to/adrianvalenz/time-based-greeting-with-react-and-bridgetown-4b42
 
 
 // ReactNative Colors: https://reactnative.dev/docs/colors
