@@ -5,7 +5,8 @@ import Main from './components/Main';
 import Copyright from './components/Copyright';
 import DateTime from './components/DateTime';
 import Math from './components/Math';
-import Contacts from './components/Contacts';
+import Practice from './components/Practice';
+
 
 
 
@@ -19,7 +20,7 @@ function App() {
       <DateTime />
       <Math />
 
-      <Contacts />
+      <Practice />
 
       <Copyright />
     </div>
